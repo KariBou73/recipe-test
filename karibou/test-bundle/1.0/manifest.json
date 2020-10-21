@@ -1,7 +1,9 @@
 {
     "bundles": {
-        "Karibou\\TestBundle\\KaribouTestBundle": ["all"]
-    },
+        "Karibou\\TestBundle\\KaribouTestBundle": [
+            "all"
+        ]
+    } ,
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
     }
